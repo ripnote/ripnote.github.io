@@ -1,0 +1,2 @@
+# ripnote.github.io
+mynotes
